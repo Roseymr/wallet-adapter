@@ -36,8 +36,8 @@
     },
     "dependencies": {
         "@ledgerhq/devices": "6.27.1",
-        "@ledgerhq/hw-transport": "6.27.1",
-        "@ledgerhq/hw-transport-webhid": "6.27.1",
+        "@ledgerhq/hw-transport": "6.31.2",
+        "@ledgerhq/hw-transport-webhid": "6.29.2",
         "@solana/wallet-adapter-base": "workspace:^",
         "buffer": "^6.0.3"
     },
